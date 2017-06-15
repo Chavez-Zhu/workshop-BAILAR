@@ -1,0 +1,130 @@
+\begin{thebibliography}{10}
+
+\bibitem{sutton_reinforcement_1998}
+R.~S. Sutton and A.~G. Barto, {\em Reinforcement learning: {An} introduction},
+  vol.~1.
+\newblock MIT press Cambridge, 1998.
+
+\bibitem{oudeyer_what_2009}
+P.-Y. Oudeyer and F.~Kaplan, ``What is intrinsic motivation? {A} typology of
+  computational approaches,'' {\em Frontiers in Neurorobotics}, vol.~1, 2009.
+
+\bibitem{chentanez_intrinsically_2004}
+N.~Chentanez, A.~G. Barto, and S.~P. Singh, ``Intrinsically motivated
+  reinforcement learning,'' in {\em Advances in neural information processing
+  systems}, pp.~1281--1288, 2004.
+
+\bibitem{hester_intrinsically_2012}
+T.~Hester and P.~Stone, ``Intrinsically motivated model learning for a
+  developing curious agent,'' in {\em Development and {Learning} and
+  {Epigenetic} {Robotics} ({ICDL}), 2012 {IEEE} {International} {Conference}
+  on}, pp.~1--6, IEEE, 2012.
+
+\bibitem{dewey_reinforcement_2014}
+D.~Dewey, ``Reinforcement learning and the reward engineering principle,'' in
+  {\em 2014 {AAAI} {Spring} {Symposium} {Series}}, 2014.
+
+\bibitem{senft_leveraging_2017}
+E.~Senft, S.~Lemaignan, P.~E. Baxter, and T.~Belpaeme, ``Leveraging {Human}
+  {Inputs} in {Interactive} {Machine} {Learning} for {Human} {Robot}
+  {Interaction},'' in {\em Proceedings of the {Companion} of the 2017
+  {ACM}/{IEEE} {International} {Conference} on {Human}-{Robot} {Interaction}},
+  pp.~281--282, ACM, 2017.
+
+\bibitem{fern_decision-theoretic_2014}
+A.~Fern, S.~Natarajan, K.~Judah, and P.~Tadepalli, ``A decision-theoretic model
+  of assistance,'' {\em Journal of Artificial Intelligence Research}, vol.~50,
+  no.~1, pp.~71--104, 2014.
+
+\bibitem{griffith_policy_2013}
+S.~Griffith, K.~Subramanian, J.~Scholz, C.~Isbell, and A.~L. Thomaz, ``Policy
+  {Shaping}: {Integrating} {Human} {Feedback} with {Reinforcement}
+  {Learning},'' in {\em Advances in {Neural} {Information} {Processing}
+  {Systems} 26} (C.~J.~C. Burges, L.~Bottou, M.~Welling, Z.~Ghahramani, and
+  K.~Q. Weinberger, eds.), pp.~2625--2633, Curran Associates, Inc., 2013.
+
+\bibitem{chu_learning_2016}
+V.~Chu, T.~Fitzgerald, and A.~L. Thomaz, ``Learning {Object} {Affordances} by
+  {Leveraging} the {Combination} of {Human}-{Guidance} and
+  {Self}-{Exploration},'' in {\em The {Eleventh} {ACM}/{IEEE} {International}
+  {Conference} on {Human} {Robot} {Interaction}}, {HRI} '16, (Piscataway, NJ,
+  USA), pp.~221--228, IEEE Press, 2016.
+
+\bibitem{nomikou_constructing_2016}
+I.~Nomikou, G.~Leonardi, K.~J. Rohlfing, and J.~Rączaszek-Leonardi,
+  ``Constructing {Interaction}: {The} {Development} of {Gaze} {Dynamics},''
+  {\em Infant and Child Development}, vol.~25, pp.~277--295, May 2016.
+
+\bibitem{kaplan_challenges_2006}
+F.~Kaplan and V.~V. Hafner, ``The challenges of joint attention,'' {\em
+  Interaction Studies}, vol.~7, no.~2, pp.~135--169, 2006.
+
+\bibitem{hester_texplore:_2013}
+T.~Hester and P.~Stone, ``{TEXPLORE}: real-time sample-efficient reinforcement
+  learning for robots,'' {\em Machine learning}, vol.~90, no.~3, pp.~385--429,
+  2013.
+
+\bibitem{kocsis_bandit-based_2006}
+L.~Kocsis and C.~Szepesvari, ``Bandit-{Based} {Monte}-{Carlo} planning,'' in
+  {\em European conference on machine learning}, pp.~282--293, Springer, 2006.
+
+\bibitem{knox_interactively_2009}
+W.~B. Knox and P.~Stone, ``Interactively shaping agents via human
+  reinforcement: {The} {TAMER} framework,'' in {\em Proceedings of the fifth
+  international conference on {Knowledge} capture}, pp.~9--16, ACM, 2009.
+
+\bibitem{broz_learning_2009}
+F.~Broz, H.~Kose-Bagci, C.~L. Nehaniv, and K.~Dautenhahn, ``Learning behavior
+  for a social interaction game with a childlike humanoid robot,'' in {\em
+  Social {Learning} in {Interactive} {Scenarios} {Workshop}, {Humanoids}},
+  2009.
+
+\bibitem{najar_social-task_2015}
+A.~Najar, O.~Sigaud, and M.~Chetouani, ``Social-{Task} {Learning} for {HRI},''
+  in {\em International {Conference} on {Social} {Robotics}}, pp.~472--481,
+  Springer, 2015.
+
+\bibitem{lopes_simultaneous_2011}
+M.~Lopes, T.~Cederborg, and P.~Y. Oudeyer, ``Simultaneous acquisition of task
+  and feedback models,'' in {\em 2011 {IEEE} {International} {Conference} on
+  {Development} and {Learning} ({ICDL})}, vol.~2, pp.~1--7, Aug. 2011.
+
+\bibitem{grizou_robot_2013}
+J.~Grizou, M.~Lopes, and P.-Y. Oudeyer, ``Robot {Learning} {Simultaneously} a
+  {Task} and {How} to {Interpret} {Human} {Instructions},'' in {\em Joint
+  {IEEE} {International} {Conference} on {Development} and {Learning} an on
+  {Epigenetic} {Robotics} ({ICDL}-{EpiRob})}, (Osaka, Japan), Aug. 2013.
+
+\bibitem{oudeyer_playground_2005}
+P.-Y. Oudeyer, F.~Kaplan, V.~V. Hafner, and A.~Whyte, ``The playground
+  experiment: {Task}-independent development of a curious robot,'' in {\em
+  Proceedings of the {AAAI} {Spring} {Symposium} on {Developmental}
+  {Robotics}}, pp.~42--47, Stanford, California, 2005.
+
+\bibitem{little_learning_2013}
+D.~Y. Little and F.~T. Sommer, ``Learning and exploration in action-perception
+  loops,'' {\em Frontiers in Neural Circuits}, vol.~7, Mar. 2013.
+
+\bibitem{carlson_computational_2004}
+E.~Carlson and J.~Triesch, ``A computational model of the emergence of gaze
+  following,'' {\em Progress in Neural Processing}, vol.~15, pp.~105--114,
+  2004.
+
+\bibitem{forestier_autonomous_2016}
+S.~Forestier, Y.~Mollard, D.~Caselli, and P.-Y. Oudeyer, ``Autonomous
+  exploration, active learning and human guidance with open-source {Poppy}
+  humanoid robot platform and {Explauto} library,'' Dec. 2016.
+
+\bibitem{diaconescu_inferring_2014}
+A.~O. Diaconescu, C.~Mathys, L.~A.~E. Weber, J.~Daunizeau, L.~Kasper, E.~I.
+  Lomakina, E.~Fehr, and K.~E. Stephan, ``Inferring on the {Intentions} of
+  {Others} by {Hierarchical} {Bayesian} {Learning},'' {\em PLOS Computational
+  Biology}, vol.~10, p.~e1003810, Sept. 2014.
+
+\bibitem{forestier_towards_2015}
+S.~Forestier and P.~Y. Oudeyer, ``Towards hierarchical curiosity-driven
+  exploration of sensorimotor models,'' in {\em 2015 {Joint} {IEEE}
+  {International} {Conference} on {Development} and {Learning} and {Epigenetic}
+  {Robotics} ({ICDL}-{EpiRob})}, pp.~234--235, Aug. 2015.
+
+\end{thebibliography}

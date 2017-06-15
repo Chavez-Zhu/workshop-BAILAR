@@ -1,0 +1,49 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: root.aux
+The style file: ieeetr.bst
+Database file #1: Zotero.bib.bib
+Warning--can't use both volume and number fields in sutton_reinforcement_1998
+Warning--empty booktitle in forestier_autonomous_2016
+You've used 24 entries,
+            1876 wiz_defined-function locations,
+            617 strings with 8736 characters,
+and the built_in function-call counts, 7220 in all, are:
+= -- 695
+> -- 283
+< -- 0
++ -- 102
+- -- 78
+* -- 517
+:= -- 981
+add.period$ -- 25
+call.type$ -- 24
+change.case$ -- 23
+chr.to.int$ -- 0
+cite$ -- 26
+duplicate$ -- 401
+empty$ -- 713
+format.name$ -- 78
+if$ -- 1764
+int.to.chr$ -- 0
+int.to.str$ -- 24
+missing$ -- 25
+newline$ -- 76
+num.names$ -- 26
+pop$ -- 113
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 266
+stack$ -- 0
+substring$ -- 486
+swap$ -- 156
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 2
+while$ -- 74
+width$ -- 26
+write$ -- 235
+(There were 2 warnings)

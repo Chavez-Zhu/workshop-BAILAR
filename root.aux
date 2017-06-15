@@ -1,0 +1,87 @@
+\relax 
+\citation{sutton_reinforcement_1998}
+\citation{oudeyer_what_2009}
+\citation{chentanez_intrinsically_2004}
+\citation{hester_intrinsically_2012}
+\citation{dewey_reinforcement_2014}
+\citation{senft_leveraging_2017}
+\citation{fern_decision-theoretic_2014}
+\citation{griffith_policy_2013}
+\citation{chu_learning_2016}
+\citation{hester_intrinsically_2012}
+\citation{nomikou_constructing_2016}
+\citation{kaplan_challenges_2006}
+\citation{hester_texplore:_2013}
+\citation{sutton_reinforcement_1998}
+\@writefile{toc}{\contentsline {section}{\numberline {I}Introduction}{1}}
+\@writefile{toc}{\contentsline {section}{\numberline {II}Background: \textsc  {texplore-vanir}}{1}}
+\newlabel{background}{{II}{1}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {II-A}\textsc  {Texplore}}{1}}
+\citation{kocsis_bandit-based_2006}
+\citation{hester_texplore:_2013}
+\newlabel{eq:qupdate}{{2}{2}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {II-B}Novelty reward in \textsc  {texplore-vanir}}{2}}
+\newlabel{eq:novelty}{{3}{2}}
+\@writefile{loa}{\contentsline {algorithm}{\numberline {1}{\ignorespaces \textsc  {Texplore-vanir} with guidance by gaze-following}}{2}}
+\newlabel{algo}{{1}{2}}
+\@writefile{toc}{\contentsline {section}{\numberline {III}METHODS}{2}}
+\newlabel{methods}{{III}{2}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {III-A}Gaze following motivation}{2}}
+\newlabel{eq:j}{{4}{2}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {III-B}Algorithm}{2}}
+\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces \textbf  {Left}: the agent model is an extension of the classical model-based reinforcement learning scheme, where the tutor behavior is explicitly taken into account to build experience. The agent exploits the accumulated experience to train predictors, from which the tabular environment model is built. Novelty and gaze-based motivations modulate the tabular reward model to favor specific state-action pairs. The agent obtains the best action by computing Q values from simulations based on the environment model. \textbf  {Right}: The environment is a 5x5 grid with two sources of red and blue blocks (the cubes) and a box of each color. The agent is defined by its position (the hand) and its actions need to be coordinated with its gaze (its eye). The tutor only exists through its gaze, and he looks where it is best for the agent to also look at. }}{3}}
+\newlabel{model}{{1}{3}}
+\newlabel{eq:reward}{{5}{3}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {III-C}Experiments}{3}}
+\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces Accumulated reward versus number of steps taken, averaged over 30 trials, with and without a tutor for different parameters n. The incentive to follow the gaze of the tutor clearly facilitates task discovery during the first iterations.}}{4}}
+\newlabel{comparaisonNormale}{{2}{4}}
+\@writefile{toc}{\contentsline {section}{\numberline {IV}Results}{4}}
+\newlabel{results}{{IV}{4}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {IV-A}Task-oriented exploration}{4}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces Distributions of the accumulated reward at step 800 over the 30 trials for different values of $\nu $, each corresponding to a vertical line, for a fixed $\mu =1$. On each vertical, the 30 trial results are binned in the six $[0,1000]$, $[1000,2000]$, ..., $[5000,6000]$ intervals. Each bin is then displayed as a circle at height equal to the average value of the bin and of size proportionate to the number of results in the bin. The best result in term of both accumulated reward and consistency over trials is obtained for $\nu =10$: few low reward results and many high reward results.}}{4}}
+\newlabel{TB1}{{3}{4}}
+\citation{knox_interactively_2009}
+\citation{broz_learning_2009}
+\citation{najar_social-task_2015}
+\citation{lopes_simultaneous_2011}
+\citation{grizou_robot_2013}
+\@writefile{lof}{\contentsline {figure}{\numberline {4}{\ignorespaces Importance of each reward mechanism in action-selection during the first 800 steps, for the two combinations $[\mu =1,\nu =0.1]$ (left) and $[\mu =1, \nu =10]$ (right). The evolution of the proportion of each member of \textup  {\hbox {\mathsurround \z@ \normalfont  (\ignorespaces 5\hbox {}\unskip \@@italiccorr )}} in the Q-value defining the next action is displayed. Successful combinations of motivations (right) enable novelty to play the main role at the very beginning and give way to environment rewards when they are discovered, while the tutor guidance impacts the agent with a continuous moderate intensity. An insufficient curiosity leads to following the tutor gaze only (left).}}{5}}
+\newlabel{fig:prop}{{4}{5}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {IV-B}Reward-free environments}{5}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5}{\ignorespaces Evolution of the reward accumulated for putting blocks in boxes over 800 steps (median and 25-75 interquartile range), for different combinations of gaze-based and curiosity-based motivations. Proper combinations of curiosity and interaction drives lead to the task being achieved regularly without using dedicated external rewards.}}{5}}
+\newlabel{noreward}{{5}{5}}
+\citation{oudeyer_playground_2005}
+\citation{little_learning_2013}
+\citation{carlson_computational_2004}
+\citation{forestier_autonomous_2016}
+\citation{diaconescu_inferring_2014}
+\citation{forestier_towards_2015}
+\bibstyle{ieeetr}
+\bibdata{Zotero.bib}
+\bibcite{sutton_reinforcement_1998}{1}
+\bibcite{oudeyer_what_2009}{2}
+\bibcite{chentanez_intrinsically_2004}{3}
+\bibcite{hester_intrinsically_2012}{4}
+\bibcite{dewey_reinforcement_2014}{5}
+\bibcite{senft_leveraging_2017}{6}
+\bibcite{fern_decision-theoretic_2014}{7}
+\bibcite{griffith_policy_2013}{8}
+\bibcite{chu_learning_2016}{9}
+\bibcite{nomikou_constructing_2016}{10}
+\bibcite{kaplan_challenges_2006}{11}
+\bibcite{hester_texplore:_2013}{12}
+\bibcite{kocsis_bandit-based_2006}{13}
+\bibcite{knox_interactively_2009}{14}
+\bibcite{broz_learning_2009}{15}
+\bibcite{najar_social-task_2015}{16}
+\bibcite{lopes_simultaneous_2011}{17}
+\bibcite{grizou_robot_2013}{18}
+\bibcite{oudeyer_playground_2005}{19}
+\bibcite{little_learning_2013}{20}
+\bibcite{carlson_computational_2004}{21}
+\bibcite{forestier_autonomous_2016}{22}
+\bibcite{diaconescu_inferring_2014}{23}
+\@writefile{toc}{\contentsline {section}{\numberline {V}Conclusion}{6}}
+\newlabel{conclusion}{{V}{6}}
+\@writefile{toc}{\contentsline {section}{References}{6}}
+\bibcite{forestier_towards_2015}{24}
